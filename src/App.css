@@ -7,20 +7,20 @@
   pointer-events: none;
 }
 
-.nav_bar_wrapper a{
+.nav_bar_wrapper a {
   padding-left: 30px;
 }
-.delete{
-  background-color: #a90b0b;
-    color: #fff;
-    padding: 5px;
-    border-radius: 5px;
-    cursor: pointer;
+.delete {
+  background-color: #a90b0b !important;
+  color: #fff !important;
+  padding: 1px !important;
+  border-radius: 5px;
+  cursor: pointer;
 }
-.update{
-  background-color:green;
+.update {
+  background-color: green;
   color: #fff;
-  padding: 5px;
+  padding: 1px !important;
   border-radius: 5px;
   cursor: pointer;
 }
